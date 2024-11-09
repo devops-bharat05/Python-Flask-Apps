@@ -1,7 +1,3 @@
-Here's a detailed `README.md` file for your Flask-based online file zipping application:
-
----
-
 # 🗜️ Online File Zipping Application
 
 A simple web application built with **Python** and **Flask** that allows users to upload a file, compress it, and download the zipped file. Perfect for DevOps engineers and developers looking to build a hands-on project for learning or portfolio purposes! 🚀
@@ -150,5 +146,3 @@ To run this application in a Docker container:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-🎉 **Thank you for checking out this project!** Feel free to contribute, open issues, or reach out for collaboration.
